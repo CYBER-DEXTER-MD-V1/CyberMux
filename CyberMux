@@ -116,7 +116,7 @@ banner
 echo -ne "${GR}[${B}*${GR}] ${B}Escribe tu nombre:${W} "
 read name
 if [ -z "${name}" ]; then
-name="CyberMux"
+name="CYBER DEXTER"
 fi
 mkdir -p ~/.config/omf > /dev/null 2>/dev/null
 mkdir -p /data/data/com.termux/files/home/.config/fish/functions
